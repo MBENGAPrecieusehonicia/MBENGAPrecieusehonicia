@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Bonjour, moi c’est MBENGA MVOUMBI Précieuse Honicia<br><br>🎯 **Développeuse web et web mobile Full-Stack JavaScript**  <br>💻 Passionnée par la création d’expériences numériques fluides, modernes et performantes.
+# 👋 Bonjour, moi c’est MBENGA MVOUMBI Précieuse Honicia<br><br>🎯 **Développeuse web et web mobile JavaScript**  <br>💻 Passionnée par la création d’expériences numériques fluides, modernes et performantes.
 
 
 # 💻 Tech Stack:
